@@ -76,7 +76,7 @@ Esse foi o projeto principal, uma aplicação Java completa onde criamos um cat�
 - Foi uma experiência completa de Orientação a Objetos, Collections, Exceptions e Consumo de API.
 ---
 
-## 🔗 Outros Projetos Relevantes para Cibersegurança:  
+## 🔗Projetos Criados Relevantes para Cibersegurança:  
 
 1. 🔄 **API Diversas (OMDb, CoinGecko, Google Books, TheMealDB)**  
    - Desenvolvimento de integrações que testam endpoints de APIs e manipulam respostas JSON.  
@@ -115,6 +115,5 @@ Essa trilha me proporcionou:
 ## 🔗 Contato e Redes  
 
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/D3Z33)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/renanreis-ciber)  
 - [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/deze_e)  
 
